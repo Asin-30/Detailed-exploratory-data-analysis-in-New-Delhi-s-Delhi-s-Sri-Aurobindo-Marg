@@ -21,7 +21,6 @@ for the establishing a monitoring station. Generally, the stations are put where
 density is high. However, other socio-economic factors are taken into consideration. The data
 recorded by these stations can help in epidemiological studies of air pollutants on human health.
 
-
 **3** Metereological Information This involves data collection of meterological parameters like : temperature, relative humidity, wind speed, wind direction. Monitors are fixed in the areas
 which are downwind from the source at mixing height as Indian Meterological Department (IMD).
 

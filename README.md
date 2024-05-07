@@ -20,10 +20,13 @@ their area. This will help in shortlisting the locations in the city, especially
 for the establishing a monitoring station. Generally, the stations are put where the population
 density is high. However, other socio-economic factors are taken into consideration. The data
 recorded by these stations can help in epidemiological studies of air pollutants on human health.
-<br>
+
+
 **3** Metereological Information This involves data collection of meterological parameters like : temperature, relative humidity, wind speed, wind direction. Monitors are fixed in the areas
 which are downwind from the source at mixing height as Indian Meterological Department (IMD).
-<br>
+
+
+
 **4.** Topographical Information Mountains, hills, valleys and large water bodies can affect the
 dispersion of pollutants. Thus it is suggested to put monitors in the area where spatial variation in
 concentration is large. **5.** Previous Air Quality Earlier air quality data can also act as a basis

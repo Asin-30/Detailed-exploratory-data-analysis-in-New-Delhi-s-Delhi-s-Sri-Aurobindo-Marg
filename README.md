@@ -48,8 +48,7 @@ Thus, one needs to follow the guidelines provided in IS 5182 (part 14) 2000:
 - It should be open from all sides, - For monitoring traffic pollution, sampling intake should be greater than 3 m above
 street level. While for unpaved roads, the samplers should be kept 200 m above from them for the
 protection from dust.
-<br>
-<br>
+
 **3.** Physical requirements of monitoring site
   - Location should be able to be a representative site for a long time.
   - Easily accessible throughout year,
@@ -63,5 +62,14 @@ must be kept in mind while fixing monitors.
 The next step is to decide on pollutants or pollutant selection and to deploy sensors to record
 for the same. Then, we check on sample duration and requirement, measurement methods, lab
 requirements, quality assurance, and finally data handling and presentation.
+
+
+### Distribution of monitors in the city
+As per WHO 1977, the distribution of stations:
+- 5 stations : 3 (Industrial / City Centre), 2 (residential)
+- 10 stations : 6 (Industrial / City Centre), 4 (residential)
+Upon interpolation, we get that for stations 6 or 8 distribution should be as follows:
+- 6 stations: 4 (Industrial / City Centre), 2 (residential)
+- 8 stations : 5 (Industrial / City Centre),3 (residential)
 
 

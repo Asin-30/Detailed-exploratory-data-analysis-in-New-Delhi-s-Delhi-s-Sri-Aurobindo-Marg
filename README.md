@@ -27,6 +27,7 @@ concentration is large. **5.** Previous Air Quality Earlier air quality data can
 for shortlisting locations for establishing monitors.
 ### B. Selection of location for monitors
 The main requirements for the selection of location of monitors: 
+<br>
 **1.** Representative Site
 There are certain conditions that needs to be fulfilled before finalizing the location: 
 - It should be representation site.
@@ -35,16 +36,19 @@ There are certain conditions that needs to be fulfilled before finalizing the lo
 - There should be free air flow available all the time. Thus, station should not be fixed in balcony, corner etc.
 - Should be at least 25 m away form the pollution source like domestic chimney (WHO 1977) especially if
 chiminey height is below the height of sampling point.
+<br>
 **2.** Comparability It is important that the data collected from different stations is comparable.
 Thus, one needs to follow the guidelines provided in IS 5182 (part 14) 2000:
 - It should be open from all sides, - For monitoring traffic pollution, sampling intake should be greater than 3 m above
 street level. While for unpaved roads, the samplers should be kept 200 m above from them for the
 protection from dust.
+<br>
 **3.** Physical requirements of monitoring site
   - Location should be able to be a representative site for a long time.
   - Easily accessible throughout year,
   - Should be protected from extreme weather conditions and vandals.
   - Site should have sheltering with facilities like water and electricity
+<br>
 **4.** Topographical and Meterological Factors Hills, mountains, valleys and large water bodies
 can affect the pollutant distribution. Also, wind pattern can change because of heating up of wind
 and day and its cooling in nights. This is could also change how pollutant flows. Thus these factors

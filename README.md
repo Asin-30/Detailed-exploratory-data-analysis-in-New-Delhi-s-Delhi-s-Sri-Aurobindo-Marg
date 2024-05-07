@@ -18,13 +18,17 @@ their area. This will help in shortlisting the locations in the city, especially
 for the establishing a monitoring station. Generally, the stations are put where the population
 density is high. However, other socio-economic factors are taken into consideration. The data
 recorded by these stations can help in epidemiological studies of air pollutants on human health.
+<br>
+<br>
 **3.** Metereological Information This involves data collection of meterological parameters like
 : temperature, relative humidity, wind speed, wind direction. Monitors are fixed in the areas
 which are downwind from the source at mixing height as Indian Meterological Department (IMD).
+<br>
 **4.** Topographical Information Mountains, hills, valleys and large water bodies can affect the
 dispersion of pollutants. Thus it is suggested to put monitors in the area where spatial variation in
 concentration is large. **5.** Previous Air Quality Earlier air quality data can also act as a basis
 for shortlisting locations for establishing monitors.
+<br>
 ### B. Selection of location for monitors
 The main requirements for the selection of location of monitors: 
 <br>
@@ -43,11 +47,13 @@ Thus, one needs to follow the guidelines provided in IS 5182 (part 14) 2000:
 street level. While for unpaved roads, the samplers should be kept 200 m above from them for the
 protection from dust.
 <br>
+<br>
 **3.** Physical requirements of monitoring site
   - Location should be able to be a representative site for a long time.
   - Easily accessible throughout year,
   - Should be protected from extreme weather conditions and vandals.
   - Site should have sheltering with facilities like water and electricity
+<br>
 <br>
 **4.** Topographical and Meterological Factors Hills, mountains, valleys and large water bodies
 can affect the pollutant distribution. Also, wind pattern can change because of heating up of wind

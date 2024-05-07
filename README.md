@@ -68,6 +68,7 @@ requirements, quality assurance, and finally data handling and presentation.
 As per WHO 1977, the distribution of stations:
 - 5 stations : 3 (Industrial / City Centre), 2 (residential)
 - 10 stations : 6 (Industrial / City Centre), 4 (residential)
+<br>
 Upon interpolation, we get that for stations 6 or 8 distribution should be as follows:
 - 6 stations: 4 (Industrial / City Centre), 2 (residential)
 - 8 stations : 5 (Industrial / City Centre),3 (residential)
